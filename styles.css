@@ -1,0 +1,22 @@
+body {
+    background-color: #8C897E;
+}
+
+.container {
+    text-align: center;
+    font-size: 100px;
+}
+
+#btn-1 {
+    background-color: red;
+}
+#btn-2 {
+    background-color: white;
+}
+#btn-3 {
+    background-color: green;
+}
+
+h1 {
+    font-size: 175px;
+}
