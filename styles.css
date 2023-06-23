@@ -29,6 +29,10 @@ body {
     height: 50px;
 }
 
+#value {
+    font-size: 150px;
+}
+
 h1 {
     font-size: 175px;
 }
